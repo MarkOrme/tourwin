@@ -37,5 +37,3 @@ int main(){
 		}
 	} // end of while loop
 }
-
-
